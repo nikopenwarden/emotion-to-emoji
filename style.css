@@ -1,0 +1,27 @@
+body
+{
+color: white;
+background-color: darkcyan;
+}
+span
+{
+  font-size: 35px;
+}
+#camera , #result
+{
+  border: 2px dashed cyan;
+  width: 355px;
+  height: 305px;
+}
+#result_emotion_name1 ,#result_emotion_name2
+{
+  color: lightskyblue;
+}
+.emotion_name
+{
+  font-size: 45px;
+}
+.emoji
+{
+  font-size: 50px;
+}
